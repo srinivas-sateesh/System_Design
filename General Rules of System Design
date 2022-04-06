@@ -1,0 +1,4 @@
+Any distributable system is infintelt buildable. Scope it out. Keep an eye on costs($$$ and Time)
+Decide the CORE of your system and build around it. 
+Getting the access patterns and desired properties right far more important than Tech stack.
+Anything that need not be done in Real-Time MUST not be done in Real-Time.
