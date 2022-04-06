@@ -2,3 +2,13 @@ Any distributable system is infinitely buildable. Scope it out. Keep an eye on c
 Decide the CORE of your system and build around it. 
 Getting the access patterns and desired properties right far more important than Tech stack.
 Anything that need not be done in Real-Time MUST not be done in Real-Time.
+Usually system design is about deciding these 6 components:
+ - Database
+ - Caching
+ - Scaling
+ - Concurrency
+ - Communication
+ - Delegation
+ Do not do premature optimizations
+ 
+ 
